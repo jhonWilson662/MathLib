@@ -60,6 +60,7 @@ g++ src/Matrix.cpp test/test_matrix.cpp -I include -o test_matrix
 Este proyecto utiliza Versionado Semántico (SemVer).
 
 Ejemplo:
+Tu primera versión estable sería:
 git tag -a v1.0.0 -m "Primera versión estable"
 git push origin v1.0.0
 
